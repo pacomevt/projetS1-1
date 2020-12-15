@@ -20,12 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a4b6167-ae8e-4d4a-9a73-fa19f996f9c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/video/interview-projet.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mycss/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/article.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mycss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mycss/mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mycss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mentions-legales.html" beforeDir="false" afterPath="$PROJECT_DIR$/mentions-legales.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus-de-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/plus-de-projets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/style.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/surconsommation.html" beforeDir="false" afterPath="$PROJECT_DIR$/surconsommation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeout&amp;bigdata.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeout&amp;bigdata.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608034495089</updated>
-      <workItem from="1608034496148" duration="3519000" />
+      <workItem from="1608034496148" duration="6273000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des polices">
       <created>1608034580932</created>
@@ -149,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608037014269</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ajout de la video interview et son integration css">
+      <created>1608039811221</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608039811221</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +190,13 @@
     <MESSAGE value="ajout de la police Neutra Display Titling.otf (titre)" />
     <MESSAGE value="ajout des libs et elements projet" />
     <MESSAGE value="reorganisation de l'arboraissance" />
-    <option name="LAST_COMMIT_MESSAGE" value="reorganisation de l'arboraissance" />
+    <MESSAGE value="ajout de la video interview et son integration css" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout de la video interview et son integration css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="244" width="585" height="592" key="find.popup" timestamp="1608041062529">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="187" y="244" width="585" height="592" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1608041062529" />
   </component>
 </project>
