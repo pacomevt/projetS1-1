@@ -193,7 +193,7 @@ a.texte-greenweb {
 
 a.texte-greenweb:before {
     float: left;
-    content: url("../images/logo/logo.svg");
+    content: url("../../img/logo/logo.svg");
     position: relative;
     bottom: 10px;
     width: 3.5rem;
