@@ -47,7 +47,7 @@ form > textarea {
 }
 
 
-textareaRR{
+textarea {
     box-sizing: border-box;
     outline: none ;
     resize: none;
@@ -62,3 +62,11 @@ button.send {
     margin: 40px 20px;
 }
 
+ul.autres-projets {
+    list-style-type: none;
+}
+
+ul.autres-projets li {
+    margin: 10px 20px;
+    font-size: 2.2rem;
+}
