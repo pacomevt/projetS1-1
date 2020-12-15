@@ -1,0 +1,64 @@
+
+
+h1.titre-home.info  {
+    top: 10%;
+    z-index: 1;
+}
+.info p{
+    margin: 0 20px;
+    clear: both;
+}
+
+
+
+h1.titre-home.info a {
+    color: black;
+}
+
+.makethewebcleaner.info {
+    color: black;
+}
+
+div.info {
+    width: 100vw;
+    height: auto;
+
+}
+
+body.info header {
+    width: 100vw;
+    height: 35vh;
+}
+
+form > input {
+    margin: 5px 0;
+    padding: 5px 0;
+}
+
+form > input,form > textarea {
+    width: calc(100vw - 30*2px);
+    text-indent: 10px;
+    display: block;
+    padding: 10px;
+}
+
+form > textarea {
+    height: 300px;
+}
+
+
+textareaRR{
+    box-sizing: border-box;
+    outline: none ;
+    resize: none;
+}
+
+textarea {
+
+}
+
+button.send {
+    float: right;
+    margin: 40px 20px;
+}
+
