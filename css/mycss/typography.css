@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "AcuminPro";
+    src: url("../fonts/Acumin-RPro.woff") format("woff"),
+    url("../fonts/Acumin-BdPro.woff") format("woff"),
+    url("../fonts/Acumin-ItPro.woff") format("woff"),
+    url("../fonts/Acumin-BdItPro.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Crimson";
+    src: url('https://fonts.googleapis.com/css?family=Crimson+Text&display=swap');
+}
+
+@font-face {
+    font-family: "Neutra Display Titling";
+    src: url("../fonts/Neutra Display Titling.otf") format("otf");
+}
+
+html {
+    font-size: 62.5% !important;
+}
+
+html>body {
+    font-size: 1.8rem ;
+    line-height: 1.1 !important;
+    font-family: AcuminPro;
+    font-style: normal;
+
+}
+
+.titre-home a,h1{
+    font-size: 8.6rem;
+    line-height: 8.6rem;
+    /*
+    font-family: "Ink Free";
+    */
+    color: white;
+    font-weight: bold;
+}
+
+.titre-home.info a,h1{
+    font-size: 5.6rem;
+    line-height: 5.6rem;
+
+}
+
+
+.main {
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none ;
+}
+
+
+span.miseenvaleur {
+    color: #4CB548;
+    font-weight: bold;
+}
+
+.makethewebcleaner {
+    color: white;
+    font-size: 1.8rem;
+}
+
+nav.index li a {
+
+    text-transform: uppercase;
+    font-size: 4rem;
+    color: black;
+    font-weight: bolder;
+
+    display: block;
+}
+nav.index p {
+    font-family: Crimson;
+    font-size: 1.6rem;
+    text-align: center;
+    margin: 20px auto 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+h2 {
+    font-size: 6rem;
+}
+a:link { color: darkgray; }
+

@@ -1,0 +1,219 @@
+/*//////////////     IMAGE DE FOND - HOME     ////////////////*/
+
+
+div.fond-accueil {
+    width: 100vw;
+    height: auto;
+}
+img.fond-accueil {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+
+/*//////////////     LOGO FLECHE     ////////////////*/
+
+div.logo-fleche {
+    width: 100vw;
+    height: 30px;
+    position: absolute;
+    bottom: 35px;
+}
+img.logo-fleche {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+/*//////////////     LOGO ILLUSTRATION ACCUEIL     ////////////////*/
+div.logo {
+    width: calc(100vw - 2*60px);
+    height: auto;
+}
+img.logo {
+    opacity: 0.8;
+    max-height: 25%;
+    max-width: 25%;
+    display: block;
+    margin: 30px auto;
+    z-index: 1;
+    position: relative;
+    top: -100px;
+}
+
+/*//////////////     TRAIT DE SEPARATION     ////////////////*/
+
+.trait {
+    width: calc(100vw - 2*20px);
+    height: 3px;
+    background-color: black;
+    margin: 20px;
+    border-radius: 20px;
+    clear: both;
+}
+
+.blanc {
+    background-color: white;
+}
+
+
+
+div.vide {
+    clear: both;
+    width: 30px;
+    height: 80px;
+}
+/*//////////////     FOOTER     ////////////////*/
+
+
+
+footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.logo-reseaux {
+    list-style-type: none;
+
+}
+
+.logo-reseaux img {
+    float: right;
+    width: 10vw;
+    padding: 0 2.5vw 0;
+    margin: 60px 5vw 0 ;
+    max-height: 10vw;
+    vertical-align: center;
+}
+
+
+footer .logo-reseaux a {
+    float: left;
+    text-indent: -9999px;
+}
+
+
+
+/*//////////////     BODY     ////////////////*/
+
+
+body{
+    background-color: white;
+}
+
+
+.index ul {
+
+    align-items: center;
+    justify-content: center;
+}
+
+nav.index   {
+    padding: 80px 0;
+}
+
+.index li {
+    float: left;
+    width: calc(100vw - 10px);
+    height: auto;
+    background: black;
+    border: white solid 5px;
+    border-bottom: none;
+}
+
+.index li.divise {
+    width: calc(50vw - 7.5px);
+    height: auto;
+    background: black;
+    border-right: none;
+
+}
+
+.index img {
+    border-radius: 30px;
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+    z-index: -1;
+}
+
+.index a,.index h3 {
+    text-indent: -9999px;
+    position: absolute;
+
+}
+
+button {
+    background-color: #4CB548;
+    padding: 5px 30px  ;
+    text-align: center;
+    border-radius: 30px;
+    border: none;
+    font-family: AcuminPro;
+    font-weight: bold;
+}
+
+.index button {
+    position: relative;
+    top: -50px;
+    margin-left: 25px;
+    width: 100px;
+
+}
+
+.index button.boutton-contact {
+    left: 50vw;
+}
+
+
+h2.visible  {
+    border-radius: 99px;
+    display: block;
+    margin-left: 20px;
+}
+
+
+
+/*//////////////     GREENWEB AVEC LOGO BEFORE     ////////////////*/
+
+
+
+a.texte-greenweb {
+    font-family: "Neutra Display Titling";
+    color: black;
+    font-weight: bold;
+    text-align: left;
+
+
+}
+
+a.texte-greenweb:before {
+    float: left;
+    content: url("../images/logo/logo.svg");
+    position: relative;
+    bottom: 10px;
+    width: 3.5rem;
+    height: 3.5rem;
+    vertical-align: center;
+    padding-right: 20px;
+    margin-left: 10px;
+
+}
+
+
+
+div.logo-mmi {
+    width: calc(50vw - 40px);
+    height: auto;
+    padding: 60px 0;
+
+}
+
+
+
+
+
