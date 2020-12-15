@@ -89,7 +89,7 @@ div.groupe-image img.divise2 {
 
 body.article header {
     width: 100vw;
-    height: 65vh;
+    height: 540px;
     justify-content: right;
 }
 
@@ -104,4 +104,10 @@ section {
 
 h2.titre-section {
     margin-top: 80px;
+}
+
+video {
+    width: calc(100vw - 10px);
+    height: auto;
+    margin: 5px ;
 }

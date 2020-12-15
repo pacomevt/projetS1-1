@@ -153,18 +153,13 @@ h1.titre-menu, .titre-menu a[href="contact.html"] { /*logo*/
 }
 
 
-
-
-.menu li{
-}
-
 .menu a {
     color: white;
 }
 
 
 .menu li {
-    margin: 40px 0;
+    margin: 30px 0;
 }
 
 .menu a:before  {

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a4b6167-ae8e-4d4a-9a73-fa19f996f9c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/video/interview-projet.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mycss/article.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/article.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mycss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/style.mp4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lh1QhJKItO6g0eCG0SgiicRxwO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Pacôme\PhpstormProjects\projetS1-1\video" />
+      <recent name="D:\Users\Pacôme\PhpstormProjects\projetS1-1\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a4b6167-ae8e-4d4a-9a73-fa19f996f9c2" name="Default Changelist" comment="" />
+      <created>1608034495089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608034495089</updated>
+      <workItem from="1608034496148" duration="3519000" />
+    </task>
+    <task id="LOCAL-00001" summary="ajout des polices">
+      <created>1608034580932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608034580932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ajout de la page index.html">
+      <created>1608036058719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036058719</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout des pages &quot;articles&quot;">
+      <created>1608036084783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036084783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ajout des pages &quot;informations&quot;">
+      <created>1608036113507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036113507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ajout des pages &quot;images&quot;">
+      <created>1608036186505</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036186505</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ajout des css &quot;généraux&quot;">
+      <created>1608036252468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036252468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ajout du css &quot;menu&quot;">
+      <created>1608036284536</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036284536</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ajout du css &quot;articles&quot;">
+      <created>1608036296390</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036296390</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ajout du css &quot;information&quot;">
+      <created>1608036311581</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036311581</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ajout de la police Neutra Display Titling.otf (titre)">
+      <created>1608036334530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036334530</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ajout des libs et elements projet">
+      <created>1608036370337</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036370337</updated>
+    </task>
+    <task id="LOCAL-00012" summary="reorganisation de l'arboraissance">
+      <created>1608037014269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608037014269</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout des polices" />
+    <MESSAGE value="ajout de la page index.html" />
+    <MESSAGE value="ajout des pages &quot;articles&quot;" />
+    <MESSAGE value="ajout des pages &quot;informations&quot;" />
+    <MESSAGE value="ajout des pages &quot;images&quot;" />
+    <MESSAGE value="ajout des css &quot;généraux&quot;" />
+    <MESSAGE value="ajout du css &quot;menu&quot;" />
+    <MESSAGE value="ajout du css &quot;articles&quot;" />
+    <MESSAGE value="ajout du css &quot;information&quot;" />
+    <MESSAGE value="ajout de la police Neutra Display Titling.otf (titre)" />
+    <MESSAGE value="ajout des libs et elements projet" />
+    <MESSAGE value="reorganisation de l'arboraissance" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganisation de l'arboraissance" />
+  </component>
+</project>
