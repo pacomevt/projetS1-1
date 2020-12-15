@@ -1,0 +1,203 @@
+h1.titre-menu, .titre-menu a[href="contact.html"] { /*logo*/
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    z-index: 1000;
+    background-image: url(../images/logo/logo.svg);
+    background-repeat: no-repeat;
+    width: 45px;
+    height: 45px;
+    left: 25px;
+    text-indent: -9999px;
+    top: 18px;
+}
+
+.menu-menu {  /*logo menu*/
+    position: fixed;
+    margin: 0;
+    z-index: 1000;
+    padding: 0;
+    right: 70px;
+    top: 35px;
+    font-size: 1.7rem ;
+    color: white;
+    transition: 800ms;
+    font-weight: normal;
+
+}
+
+.menu-open .menu-menu {
+    transform: translateX(calc(-50vw + 90px));
+
+}
+
+
+
+.menu-deroulant { /*barre*/
+    border-radius: 30px;
+    left:10px;
+    background-color: black;
+    opacity: 0.7;
+    width: calc(100vw - 2*10px);
+    height: 60px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    z-index: 30;
+
+}
+
+
+
+
+
+.barre-menu {
+    top: 40px;
+    right: 30px;
+    opacity: 1;
+
+}
+
+.barre-menu,
+.barre-menu::before
+{
+    content: '';
+    background-color: white;
+    width: 30px;
+    height: 3px;
+    position: fixed;
+    z-index: 100;
+}
+
+.barre-menu::before {
+    transform: rotate(90deg);
+    transition: all 1s;
+    z-index: 100;
+
+}
+
+.menu-open .barre-menu:before {
+    transform: rotate(540deg);
+    z-index: 100;
+
+}
+
+/*///////////////////////////////////////////////////////////////////*/
+
+/*menu*/
+
+.menu {             /*fond*/
+    color: white;
+    background-color: black;
+    opacity: 0.8;
+
+    position: fixed;
+    width: calc(100vw - 2*10px);
+    height: calc(100vh - 2*10px);
+    border-radius: 30px;
+
+    display: flex;
+    align-items: center;
+    z-index: 0;
+    top: 10px;
+    left: 10px;
+    clip-path: circle(0px at 100% 0);
+    transition: 500ms;
+}
+
+.menu-open .menu {
+    clip-path: circle(170vh at 100% 0);
+    transition: 1000ms;
+    opacity: 1;
+}
+
+/*.menu {
+    color: white;
+    background-color: black;
+    position: fixed;
+    top: 90px;
+    left: 20px;
+    bottom: 30px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-100vh);
+    transition: all 1s;
+    z-index: 3;
+}
+
+.menu-open .menu {
+    transform: translateY(0);
+}
+
+
+.menu-deroulant {
+}*/
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+    font-size: 2.3rem;
+}
+
+.menu p {
+    justify-content: center;
+    position: absolute;
+    font-size: 1.2rem;
+    bottom: 0;
+    padding: 15px;
+}
+
+
+
+
+.menu li{
+}
+
+.menu a {
+    color: white;
+}
+
+
+.menu li {
+    margin: 40px 0;
+}
+
+.menu a:before  {
+    content: "•" ;
+    padding-left: 15px;
+    padding-right: 20px;
+}
+
+.trait-menu ,
+.trait-menu-2 {
+    width: calc(100vw - 2*50px);
+    height: 2px;
+    background-color: white;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.trait-menu {
+    position: absolute;
+    top: 36px;
+}
+.trait-menu-2 {
+    position: absolute;
+    bottom: 36px;
+}
+
+div.vide-menu {
+    width: 30px;
+    height: 15px;
+}
+
+
+nav.menu {
+    z-index: 3;
+}
+
