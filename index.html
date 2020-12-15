@@ -1,13 +1,208 @@
-<!doctype html>
-<html lang="fr">
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
+
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Mon super projet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="height=device-height, initial-scale=1.0">
+
+    <title>Accueil Green Data</title>
+
+    <link rel="stylesheet" href="css/lib/normalize.css">
+
+    <link rel="stylesheet" href="css/mycss/typography.css">
+    <link rel="stylesheet" href="css/mycss/mise_en_page.css">
+    <link rel="stylesheet" href="css/mycss/graphique.css">
+    <link rel="stylesheet" href="css/mycss/menu.css">
+
 </head>
-<body>
-    <h1>Page d'accueil de mon super projet</h1>
+
+<body class="accueil">
+
+<header>
+    <h1  class="titre-home"><a href="index.html">GREEN DATA</a></h1>
+    <p class="makethewebcleaner">make the web <span class="miseenvaleur">cleaner</span>.</p>
+    <div class="logo-fleche">
+        <img src=css/images/logo/logo-fleche.png alt="" class="logo-fleche">
+    </div>
+
+    <!--MENU-->
+
+    <h1 onclick="location.href='index.html'" class="titre-menu"><a href="index.html">GREEN WEB</a></h1>
+    <div onclick="document.documentElement.classList.toggle('menu-open')">
+        <h2 class="menu-menu">menu</h2>
+        <div class="menu-deroulant"></div>
+        <div class="barre-menu"></div>
+    </div>
+
+
+    <div class="fond-accueil">
+        <img src=css/images/fond-accueil.png alt="" class="fond-accueil">
+    </div>
+
+</header>
+
+
+<div class="trait"></div>
+
+<!--////////////////////////////////////////////////////////////////////////////////-->
+
+<main>
+
+
+    <h2 class="intro">Introduction :</h2>
+    <p><span class="tab">Alors que l’utilisation d’Internet ne fait que croître depuis ces dernières années ... l’empreinte climatique qu’elle laisse derrière suit la même courbe à l'abri du regard des jeunes utilisateurs.</span>
+        <br><br> Effectivement, la navigation web et toutes ses applications sont quelque chose de banal, sans répercussion.<br>En vue de l’augmentation du nombre d’utilisateurs et de flux de données toujours plus important, il semble évident de réagir face à cette nouvelle problématique du XXIe siècle.</span>
+    </p>
+    <p><span class="tab">Notre <span class="miseenvaleur">objectif</span> : sensibiliser pour faire réagir les consommateurs d’Internet en leur offrant des habitudes et solutions qu’ils pourraient appliquer.</span>
+
+    <p><a class="texte-greenweb" href="contact.html">GREEN WEB</a>
+    </p>
+    <!--<div class="logo">
+        <img src=css/images/logo.svg alt="" class="logo">
+    </div>-->
+
+</main>
+<div class="trait "></div>
+
+<nav class="article-suivant">
+    <ul>
+        <li>
+            <h4>À Lire En Premier</h4>
+            <h3>TIME OUT & BIG DATA</h3>
+
+            <p>Le futur dans la <span class="miseenvaleur">science-fiction</span>? </p>
+            <button onclick="location.href='timeout&bigdata.html'">Lire</button>
+
+        </li>
+    </ul>
+</nav>
+<div class="trait "></div>
+
+
+<nav class="index">
+    <h2 class="visible">index :</h2>
+    <ul>
+        <li class="article1" >
+            <img src="./css/images/fonds/article1fond.svg" alt="image de fond 1">
+            <h3><a href="">time out & big data</a></h3>
+            <button onclick="location.href='timeout&bigdata.html'">Lire</button>
+            <p>Une histoire de science fiction qui tend vers un futur proche</p>
+        </li>
+        <li class="article2">
+            <img src="./css/images/fonds/article2fond.svg" alt="image de fond 2">
+            <h3><a href="">surconsommation</a></h3>
+            <button onclick="location.href='surconsommation.html'">Lire</button>
+            <p>Trop peu mise en avant, nous verrons que l'utilisation d'Internet n'est pas sans conséquences</p>
+
+        </li>
+        <li>
+            <img src="./css/images/fonds/article3fond.svg" alt="image de fond 3">
+            <h3><a href="">des solutions ?</a></h3>
+            <button onclick="location.href='solutions.html'">Lire</button>
+            <p>Quel est le comportement à adopter pour préserver notre environnement ?</p>
+
+        </li>
+
+        <li class="divise">
+            <img src="./css/images/fonds/plusdeprojetfond.svg" alt="fond + de projets">
+            <h3><a href="">+ de projets</a></h3>
+            <button onclick="location.href='plus-de-projets.html'">Voir</button>
+
+
+        </li>
+        <li class="divise">
+            <img src="./css/images/fonds/mentionsfond.svg" alt="fond mentions legales">
+            <h3><a href="">mentions légales</a></h3>
+            <button onclick="location.href='mentions-legales.html'">Lire</button>
+
+        </li>
+        <li>
+            <img src="./css/images/fonds/contactfond.svg" alt="fond contact">
+            <h3><a href="">contact</a></h3>
+            <button class="boutton-contact" onclick="location.href='contact.html'">Voir</button>
+        </li>
+
+    </ul>
+</nav>
+
+<!--////////////////////////////////////////////////////////////////////////////////-->
+<div class="vide"></div>
+<div class="vide"></div>
+<div class="trait "></div>
+
+
+<footer>
+    <section>
+        <p>Projet réalisé dans le cadre d'un exercice pédagogique au département <span class="miseenvaleur">MMI de Montbéliard</span>
+        <div class="logo-mmi">
+            <img src="css/images/logo/logo-mmi-blanc.svg" alt="logo-mmi-blanc.svg">
+        </div>
+    </section>
+
+    <div class="trait blanc"></div>
+
+    <ul>
+        <li class="logo-reseaux">
+            <img onclick="location.href='https://www.pinterest.fr/'" src="css/images/logo/logo-pinterest.svg" alt="pinterest">
+            <a href="https://www.pinterest.fr/">Pinterest</a>
+        </li>
+        <li class="logo-reseaux">
+            <img onclick="location.href='https://fr-fr.facebook.com/'" src="css/images/logo/logo-facebook.svg" alt="facebook">
+            <a href="https://fr-fr.facebook.com/">Facebook</a>
+        </li>
+        <li class="logo-reseaux">
+            <img onclick="location.href='https://www.instagram.com/?hl=fr'" src="css/images/logo/logo-instagram.svg" alt="instagram">
+            <a href="https://www.instagram.com/?hl=fr">Instagram</a>
+        </li>
+        <li class="logo-reseaux">
+            <img onclick="location.href='https://www.linkedin.com/home'" src="css/images/logo/logo-linkedin.svg" alt="linkedin">
+            <a href="https://www.linkedin.com/home">Linkedin</a>
+        </li>
+
+    </ul>
+    <div class="vide"></div>
+
+    <div class="trait blanc"></div>
+
+
+
+
+</footer>
+
+
+<nav class="menu">
+    <div class="trait-menu"></div>
+    <div class="menu-content">
+        <ul>
+            <li>
+                <a href="index.html">accueil</a>
+            </li>
+            <li>
+                <a href="timeout&bigdata.html">time out & big data</a>
+            </li>
+            <li>
+                <a href="surconsommation.html">surconsommation</a>
+            </li>
+            <li>
+                <a href="solutions.html">des solutions ?</a>
+            </li>
+            <div class="vide-menu"></div>
+            <li>
+                <a href="plus-de-projets.html">+ de projets</a>
+            </li>
+            <li>
+                <a href="mentions-legales.html">mentions légales</a>
+            </li>
+            <li>
+                <a href="contact.html">contact</a>
+            </li>
+        </ul>
+        <div class="trait-menu-2"></div>
+        <p>Projet réalisé dans le cadre d'un exercice pédagogique au département <span class="miseenvaleur">MMI de Montbéliard</span>
+        </p>
+    </div>
+</nav>
 </body>
 </html>
