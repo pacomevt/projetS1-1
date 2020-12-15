@@ -21,15 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a4b6167-ae8e-4d4a-9a73-fa19f996f9c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mycss/mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/mise_en_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mycss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mentions-legales.html" beforeDir="false" afterPath="$PROJECT_DIR$/mentions-legales.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plus-de-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/plus-de-projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surconsommation.html" beforeDir="false" afterPath="$PROJECT_DIR$/surconsommation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeout&amp;bigdata.html" beforeDir="false" afterPath="$PROJECT_DIR$/timeout&amp;bigdata.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608034495089</updated>
-      <workItem from="1608034496148" duration="6273000" />
+      <workItem from="1608034496148" duration="7632000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des polices">
       <created>1608034580932</created>
@@ -160,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608039811221</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="réajustement du footer">
+      <created>1608042723071</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608042723071</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +190,8 @@
     <MESSAGE value="ajout des libs et elements projet" />
     <MESSAGE value="reorganisation de l'arboraissance" />
     <MESSAGE value="ajout de la video interview et son integration css" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout de la video interview et son integration css" />
+    <MESSAGE value="réajustement du footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="réajustement du footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="187" y="244" width="585" height="592" key="find.popup" timestamp="1608041062529">
